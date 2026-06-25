@@ -1,1 +1,0 @@
-scr_dialogue_start("thpj5_c4.txt");
